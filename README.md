@@ -23,7 +23,7 @@ A simple desktop-based Student Management System built with **Python (Tkinter)**
 
 Here is a preview of the Student Management System GUI:
 
-![Student Management GUI](screenshots/screenshot.png)
+![Student Management GUI](https://github.com/MahisagarKadam/Student-Management-System/blob/main/Screenshots/AddStudent1.PNG)
 
 
 
