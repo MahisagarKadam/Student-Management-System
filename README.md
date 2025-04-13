@@ -21,9 +21,30 @@ A simple desktop-based Student Management System built with **Python (Tkinter)**
 
 ## 📸 Output
 
-Here is a preview of the Student Management System GUI:
+### 🏠 Home Window
+![Home](screenshots/1_home.png)
 
-![Student Management GUI](https://github.com/MahisagarKadam/Student-Management-System/blob/main/Screenshots/AddStudent1.PNG)
+### ➕ Add Student
+![Add Student](screenshots/2_add_student.png)
+
+### 📋 View Students
+![View Students](screenshots/3_view_students.png)
+
+### ✏️ Update Student Info
+![Update](screenshots/4_update.png)
+
+### ❌ Delete Student
+![Delete](screenshots/5_delete.png)
+
+### ✅ Success Message
+![Success](screenshots/6_success_message.png)
+
+### ⚠️ Warning Message
+![Warning](screenshots/7_warning_message.png)
+
+### ❗ Error Message
+![Error](screenshots/8_error_message.png)
+
 
 
 
