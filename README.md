@@ -22,28 +22,29 @@ A simple desktop-based Student Management System built with **Python (Tkinter)**
 ## 📸 Output
 
 ### 🏠 Home Window
-![Home](screenshots/1_home.png)
+![Home](https://github.com/MahisagarKadam/Student-Management-System/blob/main/Screenshots/HomePage.png)
 
 ### ➕ Add Student
-![Add Student](screenshots/2_add_student.png)
+![Add Student](https://github.com/MahisagarKadam/Student-Management-System/blob/main/Screenshots/AddStudent1.PNG)
 
 ### 📋 View Students
-![View Students](screenshots/3_view_students.png)
+![View Students](https://github.com/MahisagarKadam/Student-Management-System/blob/main/Screenshots/DisplayStudents.PNG)
 
 ### ✏️ Update Student Info
-![Update](screenshots/4_update.png)
+![Update](https://github.com/MahisagarKadam/Student-Management-System/blob/main/Screenshots/UpdateStudent.PNG)
 
 ### ❌ Delete Student
-![Delete](screenshots/5_delete.png)
-
-### ✅ Success Message
-![Success](screenshots/6_success_message.png)
+![Delete](https://github.com/MahisagarKadam/Student-Management-System/blob/main/Screenshots/DeleteStudent.PNG)
 
 ### ⚠️ Warning Message
-![Warning](screenshots/7_warning_message.png)
+![Warning](https://github.com/MahisagarKadam/Student-Management-System/blob/main/Screenshots/AddStudent2.PNG)
 
 ### ❗ Error Message
-![Error](screenshots/8_error_message.png)
+![Error](https://github.com/MahisagarKadam/Student-Management-System/blob/main/Screenshots/AddStudent3.PNG)
+
+### ✅ Database
+![Success](https://github.com/MahisagarKadam/Student-Management-System/blob/main/Screenshots/Database.PNG)
+
 
 
 
